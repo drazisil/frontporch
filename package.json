@@ -1,0 +1,25 @@
+{
+  "name": "frontporch",
+  "version": "0.0.1",
+  "description": "If the Fediverse had a front porch. Can also be a back porch. Ok, it's a porch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drazisil/frontporch.git"
+  },
+  "keywords": [
+    "fediverse",
+    "activitypub",
+    "mastodon",
+    "comfort"
+  ],
+  "author": "Drazi Crendraven <drazisil@hey.com>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/drazisil/frontporch/issues"
+  },
+  "homepage": "https://github.com/drazisil/frontporch#readme"
+}
